@@ -714,7 +714,7 @@ textarea:focus {
     display: block;
     bottom: -15%;
     height: 100%;
-    left: 10%;
+    left: 5%;
     position: absolute;
   }
 }
